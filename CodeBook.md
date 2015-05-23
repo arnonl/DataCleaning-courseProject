@@ -1,14 +1,12 @@
 # Course Project CodeBook:
-#### By Arnon D. Lieber
+##### By Arnon D. Lieber
 
 ### Main factorial variables:
-Subject
-
+**Subject**		
 A number represents the subject "id"
  * ranged between 1:30
  
-Activity
-
+**Activity**	
 Indicates the type of activity being done
  * ranged between 1:6
    * 1: STANDING
@@ -18,8 +16,7 @@ Indicates the type of activity being done
    * 5: WALKING_DOWNSTAIRS
    * 6: WALKING_UPSTAIRS
 
-group
-
+**group**	
 Indicates from which group this data was recorded, 
 from the trainng group or the test group. Good to discriminate between them after
 combining the two datasets
