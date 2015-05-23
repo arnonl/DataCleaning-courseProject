@@ -39,7 +39,8 @@ contains all the numerical measurements, see further explanation below
 
 **./train/y_train.txt** 		
 contains a list of numbers that represent the activity level
----
+
+
 The analysed data (the output) stored in this file:
 **finalTidyData.txt**
 
